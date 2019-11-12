@@ -72,7 +72,7 @@ public class Arrangement implements OrderedIterator {
 		System.out.println("Pachetul ordonat va fi:");
 		for(Card c:aranjare.deck) {
 			if(c!=null) {
-				System.out.println(c.getNumber()+" de "+c.getSuit());
+				System.out.println(c);
 			}
 		}
 	}

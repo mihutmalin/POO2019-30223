@@ -55,4 +55,8 @@ public class Card implements Comparable<Card>{
     public boolean equals(Object o) {
 		return (this.number == ((Card)o).number && this.suit == ((Card)o).suit) ;
 	}
+	
+	public String toString() {
+		return this.number+" de "+this.suit;
+	}
 }
