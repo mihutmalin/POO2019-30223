@@ -1,0 +1,72 @@
+<?xml version="1.0"?><content>
+ <ANIMAL>
+ 	<nrOfLegs>0</nrOfLegs>
+	<name>Unknown</name>
+	<maintenanceCost>7.0</maintenanceCost>
+	<dangerPerc>0.5</dangerPerc>
+	<takenCareOf>false</takenCareOf>
+	<avgSwimDepth>1510</avgSwimDepth>
+	<waterType>saltwater</waterType>
+	<DISCRIMINANT>WHALE</DISCRIMINANT>
+</ANIMAL>
+ <ANIMAL>
+ 	<nrOfLegs>0</nrOfLegs>
+	<name>Unknown</name>
+	<maintenanceCost>0.5</maintenanceCost>
+	<dangerPerc>0.1</dangerPerc>
+	<takenCareOf>false</takenCareOf>
+	<avgSwimDepth>280</avgSwimDepth>
+	<waterType>freshwater</waterType>
+	<DISCRIMINANT>FISH</DISCRIMINANT>
+</ANIMAL>
+ <ANIMAL>
+ 	<nrOfLegs>0</nrOfLegs>
+	<name>Unknown</name>
+	<maintenanceCost>4.0</maintenanceCost>
+	<dangerPerc>1.0</dangerPerc>
+	<takenCareOf>false</takenCareOf>
+	<avgSwimDepth>510</avgSwimDepth>
+	<waterType>saltwater</waterType>
+	<DISCRIMINANT>SHARK</DISCRIMINANT>
+</ANIMAL>
+ <ANIMAL>
+ 	<nrOfLegs>2</nrOfLegs>
+	<name>Unknown</name>
+	<maintenanceCost>1.0</maintenanceCost>
+	<dangerPerc>0.1</dangerPerc>
+	<takenCareOf>false</takenCareOf>
+	<migrates>true</migrates>
+	<avgFlightAltitude>300</avgFlightAltitude>
+	<DISCRIMINANT>PARROT</DISCRIMINANT>
+</ANIMAL>
+ <ANIMAL>
+ 	<nrOfLegs>4</nrOfLegs>
+	<name>Unknown</name>
+	<maintenanceCost>2.3</maintenanceCost>
+	<dangerPerc>0.4</dangerPerc>
+	<takenCareOf>false</takenCareOf>
+	<normalBodyTemp>36.0</normalBodyTemp>
+	<percBodyHair>81.23</percBodyHair>
+	<DISCRIMINANT>COW</DISCRIMINANT>
+</ANIMAL>
+ <ANIMAL>
+ 	<nrOfLegs>2</nrOfLegs>
+	<name>Unknown</name>
+	<maintenanceCost>4.5</maintenanceCost>
+	<dangerPerc>0.3</dangerPerc>
+	<takenCareOf>false</takenCareOf>
+	<normalBodyTemp>38.0</normalBodyTemp>
+	<percBodyHair>87.83</percBodyHair>
+	<DISCRIMINANT>MONKEY</DISCRIMINANT>
+</ANIMAL>
+ <ANIMAL>
+ 	<nrOfLegs>4</nrOfLegs>
+	<name>Unknown</name>
+	<maintenanceCost>7.8</maintenanceCost>
+	<dangerPerc>0.9</dangerPerc>
+	<takenCareOf>false</takenCareOf>
+	<normalBodyTemp>37.0</normalBodyTemp>
+	<percBodyHair>91.78</percBodyHair>
+	<DISCRIMINANT>TIGER</DISCRIMINANT>
+</ANIMAL>
+ </content>
