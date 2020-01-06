@@ -1,0 +1,42 @@
+<?xml version="1.0"?><content>
+ <ANIMAL>
+ 	<nrOfLegs>2</nrOfLegs>
+	<name>ParrotGelu</name>
+	<maintenanceCost>0.5</maintenanceCost>
+	<dangerPerc>0.2</dangerPerc>
+	<takenCareOf>false</takenCareOf>
+	<migrates>false</migrates>
+	<avgFlightAltitude>1234</avgFlightAltitude>
+	<DISCRIMINANT>PARROT</DISCRIMINANT>
+</ANIMAL>
+ <ANIMAL>
+ 	<nrOfLegs>2</nrOfLegs>
+	<name>ParrotAndrei</name>
+	<maintenanceCost>0.5</maintenanceCost>
+	<dangerPerc>0.2</dangerPerc>
+	<takenCareOf>false</takenCareOf>
+	<migrates>false</migrates>
+	<avgFlightAltitude>1234</avgFlightAltitude>
+	<DISCRIMINANT>PARROT</DISCRIMINANT>
+</ANIMAL>
+ <ANIMAL>
+ 	<nrOfLegs>8</nrOfLegs>
+	<name>SpiderDaniel</name>
+	<maintenanceCost>0.7</maintenanceCost>
+	<dangerPerc>0.7</dangerPerc>
+	<takenCareOf>false</takenCareOf>
+	<canFly>false</canFly>
+	<isDangerous>false</isDangerous>
+	<DISCRIMINANT>SPIDER</DISCRIMINANT>
+</ANIMAL>
+ <ANIMAL>
+ 	<nrOfLegs>2</nrOfLegs>
+	<name>ButterflyRaul</name>
+	<maintenanceCost>0.2</maintenanceCost>
+	<dangerPerc>0.0</dangerPerc>
+	<takenCareOf>false</takenCareOf>
+	<canFly>true</canFly>
+	<isDangerous>true</isDangerous>
+	<DISCRIMINANT>BUTTERFLY</DISCRIMINANT>
+</ANIMAL>
+ </content>

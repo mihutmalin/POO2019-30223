@@ -1,0 +1,20 @@
+<?xml version="1.0"?><content>
+ <EMPLOYEE>
+ 	<name>Adrian</name>
+	<salary>1500</salary>
+	<isDead>false</isDead>
+	<workingHours>15.0</workingHours>
+</EMPLOYEE>
+ <EMPLOYEE>
+ 	<name>Calina</name>
+	<salary>1950</salary>
+	<isDead>false</isDead>
+	<workingHours>32.0</workingHours>
+</EMPLOYEE>
+ <EMPLOYEE>
+ 	<name>Bogdan</name>
+	<salary>2130</salary>
+	<isDead>true</isDead>
+	<workingHours>19.5</workingHours>
+</EMPLOYEE>
+ </content>
